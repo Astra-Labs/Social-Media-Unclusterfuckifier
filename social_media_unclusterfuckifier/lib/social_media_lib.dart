@@ -13,30 +13,35 @@ export 'package:flutter/material.dart';
 // PARTS (!w!) ->
 part 'Posts/Alert Controller Message/AlertControllerMessagePost.dart';
 part 'Posts/Alert Controller Message/AlertControllerMessageObj.dart';
+part 'Posts/Alert Controller Message/AlertControllerMessageGenTool.dart';
 
 part 'Posts/Animated Gradient Terminal/AnimatedGradientTerminalGenMessagePost.dart';
 part 'Posts/Animated Gradient Terminal/AnimatedGradientTerminalGenMessageObj.dart';
+part 'Posts/Animated Gradient Terminal/AnimatedGradientTerminalGenMessageGenTool.dart';
 
 part 'Posts/Animated Transmission Terminal/AnimatedTransmissionTerminalPost.dart';
 part 'Posts/Animated Transmission Terminal/AnimatedTransmissionTerminalObj.dart';
+part 'Posts/Animated Transmission Terminal/AnimatedTransmissionTerminalGenTool.dart';
 
 part 'Posts/End Cap Image/EndCapImagePost.dart';
 part 'Posts/End Cap Image/EndCapImageObj.dart';
+part 'Posts/End Cap Image/EndCapImageGenTool.dart';
 
 part 'Posts/Fake E-mail/FakeEmailPost.dart';
 part 'Posts/Fake E-mail/FakeEmailObj.dart';
-
-part 'Posts/Glowing App Icon/GlowingAppIconView.dart';
-part 'Posts/Glowing App Icon/GlowingAppIconObj.dart';
+part 'Posts/Fake E-mail/FakeEmailGenTool.dart';
 
 part 'Posts/Half Glass Photo Image/HalfGlassPhotoImage.dart';
 part 'Posts/Half Glass Photo Image/HalfGlassPhotoObj.dart';
+part 'Posts/Half Glass Photo Image/HalfGlassPhotoGenTool.dart';
 
 part 'Posts/Messages/MessagePost.dart';
 part 'Posts/Messages/MessageObj.dart';
+part 'Posts/Messages/MessageGenTool.dart';
 
 part 'Posts/Org Update Terminal/OrgUpdateTerminalPost.dart';
 part 'Posts/Org Update Terminal/OrgUpdateTerminalObj.dart';
+part 'Posts/Org Update Terminal/OrgUpdateTerminalGenTool.dart';
 
 part 'Supporting/HomeView.dart';
 part 'Supporting/MetadataGeneratorView.dart';

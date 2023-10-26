@@ -8,7 +8,6 @@ Map<Type, Object> postObjects = {
   AnimatedTransmissionTerminalPost: AnimatedTransmissionTerminalObj,
   EndCapImagePost: EndCapImageObj,
   FakeEmailPost: FakeEmailObj,
-  GlowingAppIconPost: GlowingAppIconObj,
   HalfGlassPhotoPost: HalfGlassPhotoObj,
   MessagePost: MessageObj as PostObject,
   OrgUpdateTerminalPost: OrgUpdateTerminalObj,
